@@ -1,0 +1,31 @@
+{ "categories": [
+	{
+		"id": "",
+		"name": "Roupas",
+		"sublevels": [
+			{
+				"id": 1,
+				"name": "Camisetas"
+			},
+			{
+				"id": 2,
+				"name": "Bones"
+			}
+		]
+	},
+	{
+		"id": "",
+		"name": "Livros",
+		"sublevels": [
+			{
+				"id": 3,
+				"name": "Terror"
+			},
+			{
+				"id": 4,
+				"name": "Romances"
+			}
+		]
+	}
+]
+}

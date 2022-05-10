@@ -1,0 +1,107 @@
+{
+  "products": [
+    {
+      "quantity": 10,
+      "price": "R$49,99",
+      "available": false,
+      "sublevel_id": 1,
+      "name": "Camiseta - Compton",
+      "id": "58b5a5b1b6b6c7aacc25b3fb",
+      "img_url": "https://global.cdn.magazord.com.br/compsupply/img/2021/10/produto/570/fotografia-de-produto-e-commerce-comp-supply-07-10-2021-foto-0225.jpg?ims=fit-in/635x865/filters:fill(fff)"
+    },
+    {
+      "quantity": 40,
+      "price": "R$ 59,90",
+      "available": true,
+      "sublevel_id": 1,
+      "name": "Camiseta Tardezinha",
+      "id": "58b5a5b1c60cafd804b3bfc9",
+      "img_url": "https://lojausereserva.vtexassets.com/arquivos/ids/6476925/0034631040_01.jpg?v=637693043335970000"
+    },
+    {
+      "quantity": 50,
+      "price": "R$ 84,90",
+      "sublevel_id": 1,
+      "name": "Camiseta Pica Pau",
+      "id": "58b5a5b1101a59975b4c30b2",
+      "img_url": "https://lojausereserva.vtexassets.com/arquivos/ids/6352668/0040601040_01.jpg?v=637691802556930000"
+      
+    },
+    {
+      "quantity": 15,
+      "price": "R$ 129,90",
+      "available": true,
+      "sublevel_id": 1,
+      "name": "Camiseta Desenho Animado",
+      "id": "58b5a5b12cd2fb555a91652b",
+      "img_url": "https://img.ltwebstatic.com/images3_pi/2022/05/06/165180932513ef73a572c3c3cd8b2e02b2b17b834a_thumbnail_900x.webp"
+    },
+
+    {
+      "quantity": 7,
+      "price": "R$ 30,00",
+      "sublevel_id": 3,
+      "name": "O iluminado",
+      "id": "58b5a5b18f0d9e833ed59bcd",
+      "img_url": "https://cdn.maioresemelhores.com/imagens/maiores-e-melhores-livros-de-suspense-01-cke.jpg"
+    },
+    {
+      "quantity": 5,
+      "price": "R$ 20,00",
+      "sublevel_id": 3,
+      "name": "It: A coisa",
+      "img_url":"https://images-na.ssl-images-amazon.com/images/I/91g9Dvtf+jL._AC._SR360,460.jpg"
+    },
+    {
+      "quantity": 10,
+      "price": "R$ 29,90",
+      "available": true,
+      "sublevel_id": 3,
+      "name": "Amigo imaginario",
+      "id": "58b5a5b14a40d79ef80972fe",
+      "img_url":"https://1.bp.blogspot.com/-_5qgEnGAf5w/XvK9lOHG-XI/AAAAAAAATVA/QkIwZXr8U5MJjcHZG87-3ELyb0ws7BnLgCK4BGAsYHg/s789/Amigo.jpg"
+    },
+    {
+      "quantity": 12,
+      "price": "R$ 19,90",
+      "sublevel_id": 4,
+      "name": "Como eu era antes de voce",
+      "id": "58b5a5b1abd8ab6045ca08cc",
+      "img_url":"https://cdn.maioresemelhores.com/imagens/mm-livros-9-cke.jpg"
+    },
+
+    {
+      "quantity": 8,
+      "price": "R$ 15,90",
+      "sublevel_id": 4,
+      "name": "A culpa e das estrelas",
+      "id": "58b5a5b13bc95b01816c05b1",
+      "img_url": "https://cdn.pensador.com/img/imagens/19/ac/19_a_culpa_e_das_estrelas_c.jpg"
+    },
+    {
+      "quantity": 10,
+      "price": "R$ 10,90",
+      "sublevel_id": 4,
+      "name": "Mais Lindo que a lua",
+      "id": "58b5a5b12c5ceb44d1462659",
+      "img_url": "https://1.bp.blogspot.com/-56zI4Kt4Au0/Wmn9b_Yc47I/AAAAAAAAcQQ/AiJ05nCtXgsp93fbp9p9m-GcLCNac9OIgCLcBGAs/s1600/livro-capa-mais-lindo-que-a-lua-julia-quinn-serie-irmas-lyndon-romances-de-epoca-inperdiveis-que-serao-lan%25C3%25A7ados-2018-mademoisellelovesbooks.jpg"
+    },
+    {
+      "quantity": 15,
+      "price": "R$ 84,90",
+      "sublevel_id": 2,
+      "name": "Boné Caramelo Brasão",
+      "id": "58b5a5b1b64b6d32f2c76262",
+      "img_url": "https://cdn.shopify.com/s/files/1/0549/7470/9796/products/dsc00617-editar1-af2fa5807152f6788b16270486947309-1024-1024.jpg?v=1635195981"
+    },
+
+    {
+      "quantity": 10,
+      "price": "R$139,90",
+      "sublevel_id": 2,
+      "name": "Bone Agiota que Lute",
+      "id": "58b5a5b1b37cd67f8371b4e3",
+      "img_url": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/623/414/products/11-469d8c18b34be5b19816348486962576-1024-1024.jpg"
+    }
+  ]
+}
